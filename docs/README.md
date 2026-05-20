@@ -9,23 +9,23 @@
 ---
 
 ## Структура проекта
-'''
+```
 videoplatform/
 ├── backend/
-│   ├── videoplatform/    # настройки, роутер
-│   ├── users/            # регистрация, вход, профили
-│   ├── videos/           # видео, лайки, комментарии
+│   ├── videoplatform/
+│   ├── users/
+│   ├── videos/
 │   ├── manage.py
 │   └── requirements.txt
 ├── frontend/
 │   ├── src/
-│   │   ├── components/   # Navbar, VideoCard
-│   │   ├── pages/        # HomePage, VideoPage, UploadPage...
-│   │   ├── context/      # AuthContext
-│   │   └── services/     # api.js
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   └── services/
 │   └── package.json
 └── docs/
-'''
+```
 ---
 
 ## Запуск
