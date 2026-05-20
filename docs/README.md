@@ -9,6 +9,7 @@
 ---
 
 ## Структура проекта
+'''
 videoplatform/
 ├── backend/
 │   ├── videoplatform/    # настройки, роутер
@@ -24,7 +25,7 @@ videoplatform/
 │   │   └── services/     # api.js
 │   └── package.json
 └── docs/
-
+'''
 ---
 
 ## Запуск
